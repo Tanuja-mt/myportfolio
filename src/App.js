@@ -1,7 +1,6 @@
 import './App.css';
 import React from "react";
 import profileImg from './assets/images/profile-photo.jpg';
-import { BrowserRouter as Router, Route, Switch, Link } from 'react-router-dom';
 import {FaTwitter,FaLinkedin,FaFacebookF,FaGithub } from 'react-icons/fa';
 
 function App() {
